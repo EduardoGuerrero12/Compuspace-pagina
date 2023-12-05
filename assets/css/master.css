@@ -1,0 +1,103 @@
+body {
+background-image: image("../resources/img/background/a2.gif");
+  }
+
+/*Este es para el fondo del navbar*/
+.navegacion{
+ background-color: black !important;
+ 
+}
+/*esto sirve para cambiarle de color a las letras de navbar*/
+.navegacion ul li a{    
+    color: rgb(255, 255, 255)!;
+}
+
+.navegacion a{
+    color: rgb(255, 255, 255)!important;
+}
+
+.carrusel{
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, .3);
+    margin-top: 5px;
+    border-radius: 10px;
+    
+    
+}
+
+.img-carrusel{
+    border-radius: 10px;
+}
+.navegacion ul li a:hover{
+    color: rgb(81, 50, 205) !important;
+}
+
+.pie{
+    margin-top: 5px;
+ border-radius: 10px;
+ box-shadow: 3px 3px 5px rgba(0, 0, 0, .3);
+}
+
+
+.navegacion li{
+    background-color: black;
+}
+
+
+/* body{
+    background-image: url(../resources/img/gamer2.jpg);
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-size: width  height;  
+        background-size: 1200px 1800spx  !important;
+    } */
+body{
+    background-color: black;
+}
+    video.fondov{
+        position: fixed;
+        min-width: 100%;
+        min-height: 100%;
+        z-index: -1;
+    }
+    
+    
+
+    /*aqui es para la imagen este centrada en el de nosotros */
+
+    .text-center {
+        text-align: center;
+      }
+      
+      .col11 {
+        display: inline-block; /* Para que el contenedor se ajuste al contenido */
+        text-align: left; /* Para justificar el texto dentro del contenedor */
+      }
+      
+      .col11 img {
+        display: block;
+        margin: auto;
+        max-width: 100%;
+        height: auto;
+        border-radius: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+      }
+
+      .pie{
+        background-color: rgb(0, 0, 0);
+      }
+
+      .letra{
+        color: aliceblue;
+      }
+
+      .nav-item{
+ color: aliceblue;
+      }
+
+
+      .loco{
+        color: aliceblue;
+      }
+      
+      
